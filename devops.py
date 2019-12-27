@@ -1,5 +1,4 @@
 #calculate persons age based on months and years.
-#this is a feature of aadhar branch.
 name = str(input("please enter your good name:"))
 year = int(input("please enter the year you are born"))
 print(year)
