@@ -6,3 +6,5 @@ currentage = 2019 - year
 months = currentage*12
 days = currentage*365
 print("hello "+name+" .you are %d years old." % (currentage))
+print("hello "+name+" .you are %d months old." % (months))
+print("hello "+name+" .you are %d days old." % (days))
